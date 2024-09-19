@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+elfbarbrasil.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+elfbarbrasil.com	TRUE	/	FALSE	1999999999	PHPSESSID	0179b0661c7773291f2714a632b42f25
+elfbarbrasil.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_a04ac652af786278cd0a2d15d2405975	t_992c979760f6b778863f41c9877b48%7C%7C1726943811%7C%7C1726940211%7C%7C0526edc81b068c32703d72bb97109faf
+elfbarbrasil.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	1f56880c99c0117a4c92fcb2b4e6f791
+elfbarbrasil.com	TRUE	/	FALSE	1999999999	woodmart_recently_viewed_products	8574%7C8580%7C8576%7C8574%7C8578%7C8579%7C8582%7C8583%7C8584%7C8581%7C8570
+
